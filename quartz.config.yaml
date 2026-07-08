@@ -1,13 +1,15 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
-  pageTitleSuffix: ""
+  configuration:
+  pageTitle: "Моя Архитектура"
   enableSPA: true
   enablePopovers: true
+  defaultDateType: "created"
+  pageTitleSuffix: ""
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: ssmce-concept.github.io
+  baseUrl: natril.github.io/ssmce/
   ignorePatterns:
     - private
     - templates
