@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
   configuration:
-  pageTitle: "Моя Архитектура"
+  pageTitle: "Моя Тестовая Архитектура"
   enableSPA: true
   enablePopovers: true
   defaultDateType: "created"
